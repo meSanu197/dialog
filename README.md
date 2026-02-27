@@ -7,7 +7,7 @@
 
 👨‍💻 About Me
 
-MCA student specializing in Java development, Machine Learning, and Database Systems. Enthusiastic about solving real-world problems through optimized algorithms, scalable architectures, and intelligent applications.
+MCA student specializing in Java development, Full Stack Development, Machine Learning, and Database Systems. Enthusiastic about solving real-world problems through optimized algorithms, scalable architectures, and intelligent applications.
 
 🔹 Seeking Entry-Level Software Developer / Web Developer roles  
 🔹 Strong problem-solving and analytical skills  
