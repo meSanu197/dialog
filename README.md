@@ -5,10 +5,9 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-Motivated MCA student with a strong foundation in **Full-Stack Web Development, Machine Learning, and Database Systems**.  
-I enjoy building intelligent applications that combine **AI + Web Technologies** to solve real-world problems.
+MCA student specializing in Java development, Machine Learning, and Database Systems. Enthusiastic about solving real-world problems through optimized algorithms, scalable architectures, and intelligent applications.
 
 🔹 Seeking Entry-Level Software Developer / Web Developer roles  
 🔹 Strong problem-solving and analytical skills  
